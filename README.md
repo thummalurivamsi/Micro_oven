@@ -8,7 +8,7 @@ Power ON Message Screen:
 Displays a welcome message on the CLCD when the system is powered on.
 Cooking Mode Selection:
 
-Options: Macro, Grill, Convection, Start (quick start with 30s timer).
+Options: Micro, Grill, Convection, Start (quick start with 30s timer).
 Input through a matrix keypad (SW1 to SW4).
 Macro Mode:
 
